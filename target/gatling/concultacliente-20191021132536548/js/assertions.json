@@ -1,0 +1,10 @@
+{
+  "simulation": "Compenssar.ConcultaCliente",
+  "simulationId": "concultacliente",
+  "start": 1571664336548,
+  "description": "",
+  "scenarios": ["SmokeTest"],
+  "assertions": [
+
+  ]
+}
