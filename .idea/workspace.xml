@@ -18,7 +18,7 @@
     <option name="HIDE_WARNINGS" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -147,7 +147,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4987013" visible="true" weight="0.27987897" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4987013" visible="true" weight="0.28441754" />
       <window_info id="Structure" order="1" sideWeight="0.5012987" side_tool="true" weight="0.1762481" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -227,9 +227,7 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/../Compensar/src/test/resources/data/data.csv" />
-    <entry file="file://$PROJECT_DIR$/target/test-classes/test-classes/test-classes/logback.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/target/test-classes/test-classes/test-classes/logback.xml" />
     <entry file="jar://$MAVEN_REPOSITORY$/io/gatling/gatling-app/3.0.2/gatling-app-3.0.2.jar!/io/gatling/app/RunResultProcessor.class">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
