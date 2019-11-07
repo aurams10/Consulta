@@ -1,4 +1,0 @@
-RUN	Compenssar.ConcultaCliente	concultacliente	1571663680911	 	3.0.2
-USER	SmokeTest	1	START	1571663683370	1571663683370
-ERROR	SmokeTest: Failed to build request: No attribute named '1' is defined 	1571663683392
-USER	SmokeTest	1	END	1571663683370	1571663683404

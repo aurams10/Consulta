@@ -1,0 +1,10 @@
+{
+  "simulation": "Compenssar.sedes",
+  "simulationId": "sedes",
+  "start": 1573072615226,
+  "description": "",
+  "scenarios": ["sedes"],
+  "assertions": [
+
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "simulation": "Compenssar.user",
+  "simulationId": "user",
+  "start": 1571848692251,
+  "description": "1",
+  "scenarios": ["SmokeTest"],
+  "assertions": [
+
+  ]
+}

@@ -1,5 +1,5 @@
 <component name="ArtifactManager">
-  <artifact type="jar" name="consutaClientes:jar">
+  <artifact type="jar" build-on-make="true" name="consutaClientes:jar">
     <output-path>$PROJECT_DIR$/artifacts/consutaClientes_jar</output-path>
     <root id="archive" name="consutaClientes.jar">
       <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/sun/activation/javax.activation/1.2.0/javax.activation-1.2.0.jar" path-in-jar="/" />

@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="consutaClientes" />
+        <module name="maxymiser" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="consutaClientes" target="1.8" />
+      <module name="maxymiser" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
