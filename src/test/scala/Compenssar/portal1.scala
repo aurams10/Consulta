@@ -12,7 +12,7 @@ class portal1 extends Simulation {
 
   val httpProtocol = http
     .baseUrl("https://col.eum-appdynamics.com")
-    .inferHtmlResources()
+   // .inferHtmlResources()
 
   val headers_10 = Map(
     "Accept" -> "text/html, application/xhtml+xml, application/xml; q=0.9, */*; q=0.8",
@@ -781,4 +781,17 @@ class portal1 extends Simulation {
        // .body(RawFileBody("/portal1/0306_request.txt"))))
 
   setUp(scn.inject(atOnceUsers(1))).protocols(httpProtocol)
+  //setUp(scn.inject(constantUsersPerSec(2) during  (300)).protocols(httpConf)).maxDuration(300)
+  /*setUp(
+  scn.inject(
+    nothingFor(2 seconds),
+    atOnceUsers(2),
+    rampUsers(3) during (10 minutes),
+    constantUsersPerSec(1) during (15 seconds),
+    constantUsersPerSec(1) during (15 seconds) randomized,
+    rampUsersPerSec(1) to 3 during (5 minutes),
+    rampUsersPerSec(1) to 3 during (5 minutes) randomized,
+    heavisideUsers(5) during (60 seconds)
+  ).protocols(httpConf)
+)*/
 }

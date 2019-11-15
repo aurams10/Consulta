@@ -11,7 +11,7 @@ class portal2 extends Simulation {
 
   val httpProtocol = http
     .baseUrl("https://prucorporativo.compensar.com")
-    .inferHtmlResources()
+   // .inferHtmlResources()
     .userAgentHeader("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36")
 
   val headers_0 = Map(
@@ -477,4 +477,6 @@ class portal2 extends Simulation {
           .get("/Style%20Library/vendor/ajax-loader.gif")))
 
   setUp(scn.inject(atOnceUsers(1))).protocols(httpProtocol)
+  //setUp(scn.inject(constantUsersPerSec(2) during  (300)).protocols(httpConf)).maxDuration(300)
+
 }

@@ -29,13 +29,13 @@ class user extends Simulation{
   /*setUp(
     scn.inject(
       nothingFor(2 seconds),
-      atOnceUsers(10),
-      rampUsers(15) during (20 minutes),
-      constantUsersPerSec(10) during (15 seconds),
-      constantUsersPerSec(10) during (15 seconds) randomized,
-      rampUsersPerSec(10) to 20 during (15 minutes),
-      rampUsersPerSec(10) to 20 during (15 minutes) randomized,
-      heavisideUsers(1000) during (60 seconds)
+      atOnceUsers(2),
+      rampUsers(3) during (10 minutes),
+      constantUsersPerSec(1) during (15 seconds),
+      constantUsersPerSec(1) during (15 seconds) randomized,
+      rampUsersPerSec(1) to 3 during (5 minutes),
+      rampUsersPerSec(1) to 3 during (5 minutes) randomized,
+      heavisideUsers(5) during (60 seconds)
     ).protocols(httpConf)
   )
 */
