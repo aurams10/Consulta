@@ -1,0 +1,10 @@
+{
+  "simulation": "compensar.sedeCalle200NoAutenticado",
+  "simulationId": "sedecalle200noautenticado",
+  "start": 1573760051669,
+  "description": "",
+  "scenarios": ["compesar200"],
+  "assertions": [
+
+  ]
+}

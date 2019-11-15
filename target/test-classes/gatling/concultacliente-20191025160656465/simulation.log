@@ -1,4 +1,0 @@
-RUN	Compenssar.ConcultaCliente	concultacliente	1572019616465	 	3.0.2
-USER	ConsultaClientes	1	START	1572019619211	1572019619211
-REQUEST	1		ConsultaClientes	1572019619286	1572019633006	KO	status.find.in(200), but actually found 403
-USER	ConsultaClientes	1	END	1572019619211	1572019633060

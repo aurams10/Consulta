@@ -1,0 +1,10 @@
+{
+  "simulation": "Compenssar.edeAutosur3a6utenticad",
+  "simulationId": "edeautosur3a6utenticad",
+  "start": 1573780331118,
+  "description": "",
+  "scenarios": ["edeAutosur3a6utenticad"],
+  "assertions": [
+
+  ]
+}

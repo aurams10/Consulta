@@ -1,0 +1,10 @@
+{
+  "simulation": "Compenssar.portal1",
+  "simulationId": "portal1",
+  "start": 1573826463823,
+  "description": "",
+  "scenarios": ["portal1"],
+  "assertions": [
+
+  ]
+}

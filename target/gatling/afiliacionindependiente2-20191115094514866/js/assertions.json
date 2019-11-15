@@ -1,0 +1,10 @@
+{
+  "simulation": "Compenssar.afiliacionIndependiente2",
+  "simulationId": "afiliacionindependiente2",
+  "start": 1573811114866,
+  "description": "",
+  "scenarios": ["afiliacionIndependiente2"],
+  "assertions": [
+
+  ]
+}

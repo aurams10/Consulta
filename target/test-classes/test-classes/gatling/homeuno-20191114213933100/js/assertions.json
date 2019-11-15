@@ -1,0 +1,10 @@
+{
+  "simulation": "Compenssar.homeuno",
+  "simulationId": "homeuno",
+  "start": 1573767573100,
+  "description": "",
+  "scenarios": ["home"],
+  "assertions": [
+
+  ]
+}

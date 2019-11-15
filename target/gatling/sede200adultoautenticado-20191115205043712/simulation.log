@@ -1,0 +1,5 @@
+RUN	Compenssar.sede200adultoautenticado	sede200adultoautenticado	1573851043712	 	3.0.2
+USER	sede200adultoautenticado	1	START	1573851046075	1573851046075
+REQUEST	1		request_0	1573851046108	1573851046240	KO	css((#formLogin,Some(action))).find.exists, found nothing
+ERROR	request_145: Failed to build request: No attribute named 'token' is defined 	1573851061271
+USER	sede200adultoautenticado	1	END	1573851046075	1573851061274

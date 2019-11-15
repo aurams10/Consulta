@@ -1,0 +1,5 @@
+RUN	Compenssar.home1	home1	1573826380606	 	3.0.2
+USER	home1	1	START	1573826382785	1573826382785
+REQUEST	1		request_0	1573826382817	1573826382965	KO	j.i.IOException: Premature close
+ERROR	request_210: Failed to build request: url request_0/eumcollector/beacons/browser/v1/AD-AAB-AAT-HVX/adrum can't be parsed into an Uri: j.l.IllegalArgumentException: request_0/eumcollector/beacons/browser/v1/AD-AAB-AAT-HVX/adrum could not be parsed into a proper Uri, missing scheme 	1573826391012
+USER	home1	1	END	1573826382785	1573826391016

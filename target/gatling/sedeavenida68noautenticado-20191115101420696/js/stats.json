@@ -1,0 +1,1253 @@
+{
+  "type": "GROUP",
+"name": "Global Information",
+"path": "",
+"pathFormatted": "group_missing-name-b06d1",
+"stats": {
+    "name": "Global Information",
+    "numberOfRequests": {
+        "total": 67,
+        "ok": 67,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 11,
+        "ok": 11,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 2532,
+        "ok": 2532,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 348,
+        "ok": 348,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 429,
+        "ok": 429,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 140,
+        "ok": 140,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 545,
+        "ok": 545,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 789,
+        "ok": 789,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 1958,
+        "ok": 1958,
+        "ko": 0
+    },
+    "group1": {
+        "name": "t < 800 ms",
+        "count": 63,
+        "percentage": 94
+    },
+    "group2": {
+        "name": "800 ms < t < 1200 ms",
+        "count": 1,
+        "percentage": 1
+    },
+    "group3": {
+        "name": "t > 1200 ms",
+        "count": 3,
+        "percentage": 4
+    },
+    "group4": {
+        "name": "failed",
+        "count": 0,
+        "percentage": 0
+    },
+    "meanNumberOfRequestsPerSecond": {
+        "total": 4.466666666666667,
+        "ok": 4.466666666666667,
+        "ko": 0
+    }
+},
+"contents": {
+"req_home-sedes-aven-14721": {
+        "type": "REQUEST",
+        "name": "home_sedes/avenida-68-sede-principal",
+"path": "home_sedes/avenida-68-sede-principal",
+"pathFormatted": "req_home-sedes-aven-14721",
+"stats": {
+    "name": "home_sedes/avenida-68-sede-principal",
+    "numberOfRequests": {
+        "total": 39,
+        "ok": 39,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 11,
+        "ok": 11,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 2532,
+        "ok": 2532,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 271,
+        "ok": 271,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 521,
+        "ok": 521,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 63,
+        "ok": 63,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 182,
+        "ok": 182,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 1518,
+        "ok": 1518,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 2202,
+        "ok": 2202,
+        "ko": 0
+    },
+    "group1": {
+        "name": "t < 800 ms",
+        "count": 35,
+        "percentage": 90
+    },
+    "group2": {
+        "name": "800 ms < t < 1200 ms",
+        "count": 1,
+        "percentage": 3
+    },
+    "group3": {
+        "name": "t > 1200 ms",
+        "count": 3,
+        "percentage": 8
+    },
+    "group4": {
+        "name": "failed",
+        "count": 0,
+        "percentage": 0
+    },
+    "meanNumberOfRequestsPerSecond": {
+        "total": 2.6,
+        "ok": 2.6,
+        "ko": 0
+    }
+}
+    },"req_https---www-goo-1c101": {
+        "type": "REQUEST",
+        "name": "https://www.google-analytics.com",
+"path": "https://www.google-analytics.com",
+"pathFormatted": "req_https---www-goo-1c101",
+"stats": {
+    "name": "https://www.google-analytics.com",
+    "numberOfRequests": {
+        "total": 3,
+        "ok": 3,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 397,
+        "ok": 397,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 592,
+        "ok": 592,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 510,
+        "ok": 510,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 83,
+        "ok": 83,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 541,
+        "ok": 541,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 567,
+        "ok": 567,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 587,
+        "ok": 587,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 591,
+        "ok": 591,
+        "ko": 0
+    },
+    "group1": {
+        "name": "t < 800 ms",
+        "count": 3,
+        "percentage": 100
+    },
+    "group2": {
+        "name": "800 ms < t < 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group3": {
+        "name": "t > 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group4": {
+        "name": "failed",
+        "count": 0,
+        "percentage": 0
+    },
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.2,
+        "ok": 0.2,
+        "ko": 0
+    }
+}
+    },"req_https---maps-go-eb905": {
+        "type": "REQUEST",
+        "name": "https://maps.googleapis.com",
+"path": "https://maps.googleapis.com",
+"pathFormatted": "req_https---maps-go-eb905",
+"stats": {
+    "name": "https://maps.googleapis.com",
+    "numberOfRequests": {
+        "total": 9,
+        "ok": 9,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 39,
+        "ok": 39,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 659,
+        "ok": 659,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 384,
+        "ok": 384,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 212,
+        "ok": 212,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 485,
+        "ok": 485,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 507,
+        "ok": 507,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 620,
+        "ok": 620,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 651,
+        "ok": 651,
+        "ko": 0
+    },
+    "group1": {
+        "name": "t < 800 ms",
+        "count": 9,
+        "percentage": 100
+    },
+    "group2": {
+        "name": "800 ms < t < 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group3": {
+        "name": "t > 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group4": {
+        "name": "failed",
+        "count": 0,
+        "percentage": 0
+    },
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.6,
+        "ok": 0.6,
+        "ko": 0
+    }
+}
+    },"req_https---c-oracl-9eca5": {
+        "type": "REQUEST",
+        "name": "https://c.oracleinfinity.io/acs",
+"path": "https://c.oracleinfinity.io/acs",
+"pathFormatted": "req_https---c-oracl-9eca5",
+"stats": {
+    "name": "https://c.oracleinfinity.io/acs",
+    "numberOfRequests": {
+        "total": 3,
+        "ok": 3,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 628,
+        "ok": 628,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 644,
+        "ok": 644,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 638,
+        "ok": 638,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 7,
+        "ok": 7,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 641,
+        "ok": 641,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 643,
+        "ok": 643,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 644,
+        "ok": 644,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 644,
+        "ok": 644,
+        "ko": 0
+    },
+    "group1": {
+        "name": "t < 800 ms",
+        "count": 3,
+        "percentage": 100
+    },
+    "group2": {
+        "name": "800 ms < t < 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group3": {
+        "name": "t > 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group4": {
+        "name": "failed",
+        "count": 0,
+        "percentage": 0
+    },
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.2,
+        "ok": 0.2,
+        "ko": 0
+    }
+}
+    },"req_https---fonts-g-efdfb": {
+        "type": "REQUEST",
+        "name": "https://fonts.googleapis.com",
+"path": "https://fonts.googleapis.com",
+"pathFormatted": "req_https---fonts-g-efdfb",
+"stats": {
+    "name": "https://fonts.googleapis.com",
+    "numberOfRequests": {
+        "total": 1,
+        "ok": 1,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 503,
+        "ok": 503,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 503,
+        "ok": 503,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 503,
+        "ok": 503,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 503,
+        "ok": 503,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 503,
+        "ok": 503,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 503,
+        "ok": 503,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 503,
+        "ok": 503,
+        "ko": 0
+    },
+    "group1": {
+        "name": "t < 800 ms",
+        "count": 1,
+        "percentage": 100
+    },
+    "group2": {
+        "name": "800 ms < t < 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group3": {
+        "name": "t > 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group4": {
+        "name": "failed",
+        "count": 0,
+        "percentage": 0
+    },
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.06666666666666667,
+        "ok": 0.06666666666666667,
+        "ko": 0
+    }
+}
+    },"req_https---cdn-app-e4fbf": {
+        "type": "REQUEST",
+        "name": "https://cdn.appdynamics.com/adrum-ext",
+"path": "https://cdn.appdynamics.com/adrum-ext",
+"pathFormatted": "req_https---cdn-app-e4fbf",
+"stats": {
+    "name": "https://cdn.appdynamics.com/adrum-ext",
+    "numberOfRequests": {
+        "total": 1,
+        "ok": 1,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 457,
+        "ok": 457,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 457,
+        "ok": 457,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 457,
+        "ok": 457,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 457,
+        "ok": 457,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 457,
+        "ok": 457,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 457,
+        "ok": 457,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 457,
+        "ok": 457,
+        "ko": 0
+    },
+    "group1": {
+        "name": "t < 800 ms",
+        "count": 1,
+        "percentage": 100
+    },
+    "group2": {
+        "name": "800 ms < t < 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group3": {
+        "name": "t > 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group4": {
+        "name": "failed",
+        "count": 0,
+        "percentage": 0
+    },
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.06666666666666667,
+        "ok": 0.06666666666666667,
+        "ko": 0
+    }
+}
+    },"req_https---maps-gs-5b0e5": {
+        "type": "REQUEST",
+        "name": "https://maps.gstatic.com/mapfiles",
+"path": "https://maps.gstatic.com/mapfiles",
+"pathFormatted": "req_https---maps-gs-5b0e5",
+"stats": {
+    "name": "https://maps.gstatic.com/mapfiles",
+    "numberOfRequests": {
+        "total": 1,
+        "ok": 1,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 578,
+        "ok": 578,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 578,
+        "ok": 578,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 578,
+        "ok": 578,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 578,
+        "ok": 578,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 578,
+        "ok": 578,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 578,
+        "ok": 578,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 578,
+        "ok": 578,
+        "ko": 0
+    },
+    "group1": {
+        "name": "t < 800 ms",
+        "count": 1,
+        "percentage": 100
+    },
+    "group2": {
+        "name": "800 ms < t < 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group3": {
+        "name": "t > 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group4": {
+        "name": "failed",
+        "count": 0,
+        "percentage": 0
+    },
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.06666666666666667,
+        "ok": 0.06666666666666667,
+        "ko": 0
+    }
+}
+    },"req_https---service-3ce3a": {
+        "type": "REQUEST",
+        "name": "https://service.maxymiser.net/cg/v5us",
+"path": "https://service.maxymiser.net/cg/v5us",
+"pathFormatted": "req_https---service-3ce3a",
+"stats": {
+    "name": "https://service.maxymiser.net/cg/v5us",
+    "numberOfRequests": {
+        "total": 1,
+        "ok": 1,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 396,
+        "ok": 396,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 396,
+        "ok": 396,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 396,
+        "ok": 396,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 396,
+        "ok": 396,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 396,
+        "ok": 396,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 396,
+        "ok": 396,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 396,
+        "ok": 396,
+        "ko": 0
+    },
+    "group1": {
+        "name": "t < 800 ms",
+        "count": 1,
+        "percentage": 100
+    },
+    "group2": {
+        "name": "800 ms < t < 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group3": {
+        "name": "t > 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group4": {
+        "name": "failed",
+        "count": 0,
+        "percentage": 0
+    },
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.06666666666666667,
+        "ok": 0.06666666666666667,
+        "ko": 0
+    }
+}
+    },"req_https---stats-g-74d11": {
+        "type": "REQUEST",
+        "name": "https://stats.g.doubleclick.net/r/collect",
+"path": "https://stats.g.doubleclick.net/r/collect",
+"pathFormatted": "req_https---stats-g-74d11",
+"stats": {
+    "name": "https://stats.g.doubleclick.net/r/collect",
+    "numberOfRequests": {
+        "total": 1,
+        "ok": 1,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 706,
+        "ok": 706,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 706,
+        "ok": 706,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 706,
+        "ok": 706,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 706,
+        "ok": 706,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 706,
+        "ok": 706,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 706,
+        "ok": 706,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 706,
+        "ok": 706,
+        "ko": 0
+    },
+    "group1": {
+        "name": "t < 800 ms",
+        "count": 1,
+        "percentage": 100
+    },
+    "group2": {
+        "name": "800 ms < t < 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group3": {
+        "name": "t > 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group4": {
+        "name": "failed",
+        "count": 0,
+        "percentage": 0
+    },
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.06666666666666667,
+        "ok": 0.06666666666666667,
+        "ko": 0
+    }
+}
+    },"req_https---dc-orac-50584": {
+        "type": "REQUEST",
+        "name": "https://dc.oracleinfinity.io",
+"path": "https://dc.oracleinfinity.io",
+"pathFormatted": "req_https---dc-orac-50584",
+"stats": {
+    "name": "https://dc.oracleinfinity.io",
+    "numberOfRequests": {
+        "total": 1,
+        "ok": 1,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 700,
+        "ok": 700,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 700,
+        "ok": 700,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 700,
+        "ok": 700,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 700,
+        "ok": 700,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 700,
+        "ok": 700,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 700,
+        "ok": 700,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 700,
+        "ok": 700,
+        "ko": 0
+    },
+    "group1": {
+        "name": "t < 800 ms",
+        "count": 1,
+        "percentage": 100
+    },
+    "group2": {
+        "name": "800 ms < t < 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group3": {
+        "name": "t > 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group4": {
+        "name": "failed",
+        "count": 0,
+        "percentage": 0
+    },
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.06666666666666667,
+        "ok": 0.06666666666666667,
+        "ko": 0
+    }
+}
+    },"req_https---fonts-g-6d986": {
+        "type": "REQUEST",
+        "name": "https://fonts.gstatic.com/s/roboto",
+"path": "https://fonts.gstatic.com/s/roboto",
+"pathFormatted": "req_https---fonts-g-6d986",
+"stats": {
+    "name": "https://fonts.gstatic.com/s/roboto",
+    "numberOfRequests": {
+        "total": 2,
+        "ok": 2,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 548,
+        "ok": 548,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 549,
+        "ok": 549,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 549,
+        "ok": 549,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 1,
+        "ok": 1,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 549,
+        "ok": 549,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 549,
+        "ok": 549,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 549,
+        "ok": 549,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 549,
+        "ok": 549,
+        "ko": 0
+    },
+    "group1": {
+        "name": "t < 800 ms",
+        "count": 2,
+        "percentage": 100
+    },
+    "group2": {
+        "name": "800 ms < t < 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group3": {
+        "name": "t > 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group4": {
+        "name": "failed",
+        "count": 0,
+        "percentage": 0
+    },
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.13333333333333333,
+        "ok": 0.13333333333333333,
+        "ko": 0
+    }
+}
+    },"req_https---www-goo-7a400": {
+        "type": "REQUEST",
+        "name": "https://www.googletagmanager.com/gtm.js",
+"path": "https://www.googletagmanager.com/gtm.js",
+"pathFormatted": "req_https---www-goo-7a400",
+"stats": {
+    "name": "https://www.googletagmanager.com/gtm.js",
+    "numberOfRequests": {
+        "total": 1,
+        "ok": 1,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 676,
+        "ok": 676,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 676,
+        "ok": 676,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 676,
+        "ok": 676,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 676,
+        "ok": 676,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 676,
+        "ok": 676,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 676,
+        "ok": 676,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 676,
+        "ok": 676,
+        "ko": 0
+    },
+    "group1": {
+        "name": "t < 800 ms",
+        "count": 1,
+        "percentage": 100
+    },
+    "group2": {
+        "name": "800 ms < t < 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group3": {
+        "name": "t > 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group4": {
+        "name": "failed",
+        "count": 0,
+        "percentage": 0
+    },
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.06666666666666667,
+        "ok": 0.06666666666666667,
+        "ko": 0
+    }
+}
+    },"req_home-sedes-aven-ba499": {
+        "type": "REQUEST",
+        "name": "home_sedes/avenida-68-sede-principal4",
+"path": "home_sedes/avenida-68-sede-principal4",
+"pathFormatted": "req_home-sedes-aven-ba499",
+"stats": {
+    "name": "home_sedes/avenida-68-sede-principal4",
+    "numberOfRequests": {
+        "total": 1,
+        "ok": 1,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 136,
+        "ok": 136,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 136,
+        "ok": 136,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 136,
+        "ok": 136,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 136,
+        "ok": 136,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 136,
+        "ok": 136,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 136,
+        "ok": 136,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 136,
+        "ok": 136,
+        "ko": 0
+    },
+    "group1": {
+        "name": "t < 800 ms",
+        "count": 1,
+        "percentage": 100
+    },
+    "group2": {
+        "name": "800 ms < t < 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group3": {
+        "name": "t > 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group4": {
+        "name": "failed",
+        "count": 0,
+        "percentage": 0
+    },
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.06666666666666667,
+        "ok": 0.06666666666666667,
+        "ko": 0
+    }
+}
+    },"req_home-sedes-aven-7df9d": {
+        "type": "REQUEST",
+        "name": "home_sedes/avenida-68-sede-principal7",
+"path": "home_sedes/avenida-68-sede-principal7",
+"pathFormatted": "req_home-sedes-aven-7df9d",
+"stats": {
+    "name": "home_sedes/avenida-68-sede-principal7",
+    "numberOfRequests": {
+        "total": 1,
+        "ok": 1,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 47,
+        "ok": 47,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 47,
+        "ok": 47,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 47,
+        "ok": 47,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 47,
+        "ok": 47,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 47,
+        "ok": 47,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 47,
+        "ok": 47,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 47,
+        "ok": 47,
+        "ko": 0
+    },
+    "group1": {
+        "name": "t < 800 ms",
+        "count": 1,
+        "percentage": 100
+    },
+    "group2": {
+        "name": "800 ms < t < 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group3": {
+        "name": "t > 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group4": {
+        "name": "failed",
+        "count": 0,
+        "percentage": 0
+    },
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.06666666666666667,
+        "ok": 0.06666666666666667,
+        "ko": 0
+    }
+}
+    },"req_https---col-eum-bc6a5": {
+        "type": "REQUEST",
+        "name": "https://col.eum-appdynamics.com",
+"path": "https://col.eum-appdynamics.com",
+"pathFormatted": "req_https---col-eum-bc6a5",
+"stats": {
+    "name": "https://col.eum-appdynamics.com",
+    "numberOfRequests": {
+        "total": 2,
+        "ok": 2,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 88,
+        "ok": 88,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 428,
+        "ok": 428,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 258,
+        "ok": 258,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 170,
+        "ok": 170,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 258,
+        "ok": 258,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 343,
+        "ok": 343,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 411,
+        "ok": 411,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 425,
+        "ok": 425,
+        "ko": 0
+    },
+    "group1": {
+        "name": "t < 800 ms",
+        "count": 2,
+        "percentage": 100
+    },
+    "group2": {
+        "name": "800 ms < t < 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group3": {
+        "name": "t > 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group4": {
+        "name": "failed",
+        "count": 0,
+        "percentage": 0
+    },
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.13333333333333333,
+        "ok": 0.13333333333333333,
+        "ko": 0
+    }
+}
+    }
+}
+
+}

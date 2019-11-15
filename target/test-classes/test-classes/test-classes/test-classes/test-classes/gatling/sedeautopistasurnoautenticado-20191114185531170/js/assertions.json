@@ -1,0 +1,10 @@
+{
+  "simulation": "Compenssar.sedeAutopistaSurNoAutenticado",
+  "simulationId": "sedeautopistasurnoautenticado",
+  "start": 1573757731170,
+  "description": "",
+  "scenarios": ["autopistasur"],
+  "assertions": [
+
+  ]
+}

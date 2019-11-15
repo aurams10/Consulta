@@ -1,0 +1,137 @@
+RUN	Compenssar.afiliacionesIndependiente1	afiliacionesindependiente1	1573809791099	4	3.0.2
+USER	afiliacionesIndependiente1	1	START	1573809793577	1573809793577
+REQUEST	1		home_afiliacionesIndependiente1	1573809793611	1573809794309	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809794570	1573809794598	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809794622	1573809794709	OK	 
+REQUEST	1		https://c.oracleinfinity.io	1573809794527	1573809794770	OK	 
+REQUEST	1		https://c.oracleinfinity.io	1573809794538	1573809794774	OK	 
+REQUEST	1		https://service.maxymiser.net	1573809794549	1573809794778	OK	 
+REQUEST	1		https://c.oracleinfinity.io	1573809794538	1573809794784	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809794722	1573809794788	OK	 
+REQUEST	1		https://cdn.appdynamics.com	1573809794539	1573809794799	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809794791	1573809794829	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809794572	1573809794857	OK	 
+REQUEST	1		https://www.gstatic.com/recaptcha	1573809794518	1573809794894	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809794831	1573809794903	OK	 
+REQUEST	1		https://service.maxymiser.net	1573809794557	1573809794908	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809794860	1573809794912	OK	 
+REQUEST	1		https://www.google.com/recaptcha	1573809794583	1573809794940	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809794907	1573809794953	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809794574	1573809794981	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809794957	1573809794988	OK	 
+REQUEST	1		https://www.google-analytics.com	1573809794504	1573809794993	OK	 
+REQUEST	1		https://www.google-analytics.com	1573809794517	1573809794997	KO	Check validator resolution crashed: Resource /afiliacionesindependiente1/0085_response.gif not found
+REQUEST	1		home_afiliacionesIndependiente1	1573809794915	1573809795009	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809794573	1573809795013	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809794990	1573809795019	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809794985	1573809795023	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809795012	1573809795027	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809795018	1573809795031	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809795021	1573809795036	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809795026	1573809795039	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809795034	1573809795059	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809795038	1573809795062	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809795029	1573809795067	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809795042	1573809795070	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809795061	1573809795073	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809795064	1573809795076	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809795069	1573809795079	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809795074	1573809795086	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809795072	1573809795089	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809795077	1573809795092	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809795081	1573809795095	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809795088	1573809795103	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809795091	1573809795107	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809795094	1573809795109	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809795096	1573809795114	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809795105	1573809795117	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809795108	1573809795120	OK	 
+REQUEST	1		https://dc.oracleinfinity.io	1573809794558	1573809795123	KO	Check validator resolution crashed: Resource /afiliacionesindependiente1/0131_response.gif not found
+REQUEST	1		home_afiliacionesIndependiente1	1573809795110	1573809795124	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809795117	1573809795129	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809795121	1573809795135	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809795126	1573809795138	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809795119	1573809795140	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809795137	1573809795149	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809795142	1573809795171	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809795139	1573809795178	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809795130	1573809795183	OK	 
+REQUEST	1		https://www.googletagmanager.com	1573809794575	1573809795190	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809795151	1573809795196	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809795187	1573809795209	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809795173	1573809795227	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809795198	1573809795237	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809795181	1573809795240	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809795231	1573809795245	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809795239	1573809795273	KO	Check validator resolution crashed: Resource /afiliacionesindependiente1/0054_response.ico not found
+REQUEST	1		home_afiliacionesIndependiente1	1573809795243	1573809795276	KO	Check validator resolution crashed: Resource /afiliacionesindependiente1/0055_response.png not found
+REQUEST	1		home_afiliacionesIndependiente1	1573809795246	1573809795287	KO	Check validator resolution crashed: Resource /afiliacionesindependiente1/0056_response.png not found
+REQUEST	1		home_afiliacionesIndependiente1	1573809795211	1573809795314	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809795275	1573809795320	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809795278	1573809795323	KO	Check validator resolution crashed: Resource /afiliacionesindependiente1/0058_response.png not found
+REQUEST	1		home_afiliacionesIndependiente1	1573809795311	1573809795337	KO	Check validator resolution crashed: Resource /afiliacionesindependiente1/0060_response.bin not found
+REQUEST	1		home_afiliacionesIndependiente1	1573809795324	1573809795347	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809795319	1573809795377	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809795342	1573809795382	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809795376	1573809795390	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809795380	1573809795393	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809795383	1573809795415	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809795322	1573809795422	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809795391	1573809795438	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809795394	1573809795446	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809795437	1573809795461	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809795416	1573809795528	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809795464	1573809795533	KO	Check validator resolution crashed: Resource /afiliacionesindependiente1/0075_response.jpeg not found
+REQUEST	1		home_afiliacionesIndependiente1	1573809795444	1573809795546	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809795529	1573809795564	KO	Check validator resolution crashed: Resource /afiliacionesindependiente1/0076_response.jpeg not found
+REQUEST	1		home_afiliacionesIndependiente1	1573809795449	1573809795582	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809795548	1573809795591	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809795536	1573809795593	KO	Check validator resolution crashed: Resource /afiliacionesindependiente1/0077_response.jpeg not found
+REQUEST	1		home_afiliacionesIndependiente1	1573809795565	1573809795595	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809795590	1573809795606	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809795592	1573809795612	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809795594	1573809795615	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809795596	1573809795627	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809795607	1573809795642	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809795617	1573809795659	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809795660	1573809795675	KO	Check validator resolution crashed: Resource /afiliacionesindependiente1/0100_response.png not found
+REQUEST	1		home_afiliacionesIndependiente1	1573809795676	1573809795690	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809795629	1573809795694	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809795614	1573809795696	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809795691	1573809795740	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809795643	1573809795744	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809795695	1573809795753	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809795697	1573809795758	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809795743	1573809795773	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809795754	1573809795774	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809795759	1573809795776	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809795745	1573809795785	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809795775	1573809795793	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809795773	1573809795801	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809795778	1573809795839	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809794571	1573809795982	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809795803	1573809796025	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809794571	1573809796045	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809795795	1573809796067	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809796070	1573809796135	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809796058	1573809796148	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809795840	1573809796166	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809796137	1573809796171	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809796164	1573809796185	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809795786	1573809796190	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809796170	1573809796292	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809796194	1573809796318	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809796293	1573809796320	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809796322	1573809796342	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809796343	1573809796366	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809796027	1573809796369	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809796186	1573809796382	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809796368	1573809796394	KO	Check validator resolution crashed: Resource /afiliacionesindependiente1/0138_response.jpeg not found
+REQUEST	1		home_afiliacionesIndependiente1	1573809796319	1573809796415	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809796389	1573809796422	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809796177	1573809796427	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809796396	1573809796440	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809796370	1573809796477	KO	Check validator resolution crashed: Resource /afiliacionesindependiente1/0139_response.jpeg not found
+REQUEST	1		home_afiliacionesIndependiente1	1573809795986	1573809796498	OK	 
+REQUEST	1		home_afiliacionesIndependiente1	1573809801517	1573809801993	KO	Check validator resolution crashed: Resource /afiliacionesindependiente1/0144_response.html not found
+USER	afiliacionesIndependiente1	1	END	1573809793577	1573809802008
